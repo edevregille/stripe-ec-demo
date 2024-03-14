@@ -1,0 +1,30 @@
+.link {
+    color: blue;
+    cursor: pointer;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    /* background-color: #dee5ec; */
+}
+
+.headerContainer {
+    width: 90%;
+    margin: auto;
+}
+
+.img {
+    width: 100%;
+}
+
+.containerCheckout {
+    padding: 10;
+}
+
+.linklogin {
+    margin-left: 7%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: "Sofia", sans-serif;
+}
